@@ -1,16 +1,6 @@
 # Run-Llama3 
 This project runs Llama-3 8b using the ms_marco dataset
-<div align="center">
 
-  <a href="https://unsloth.ai"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20white%20text.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png">
-    <img alt="unsloth logo" src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png" height="110" style="max-width: 100%;">
-  </picture></a>
-  
-<a href="https://colab.research.google.com/drive/135ced7oHytdxu3N2DNe1Z0kqjyYIkDXp?usp=sharing"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/start free finetune button.png" height="48"></a>
-<a href="https://discord.gg/u54VK8m8tk"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/Discord button.png" height="48"></a>
-<a href="https://ko-fi.com/unsloth"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/buy me a coffee button.png" height="48"></a>
 
 ### Finetune Llama 3, Mistral & Gemma 2-5x faster with 80% less memory!
 
@@ -26,7 +16,7 @@ This notebook is **beginner friendly**! Add your dataset, click "Run All", and y
 | Type                            | Links                               |
 | ------------------------------- | --------------------------------------- |
 | 📚 **Wiki & FAQ**              | [Read Our Wiki](https://github.com/unslothai/unsloth/wiki) |
-| <img height="14" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />&nbsp; **Twitter (aka X)**              |  [Follow us on X](https://twitter.com/unslothai)|
+| <img height="14" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />&nbsp; **Twitter/X)**              |  [Follow us on X](https://twitter.com/imai_1984)|
 | 📜 **Documentation**              | [Read The Doc](https://github.com/unslothai/unsloth/tree/main#-documentation) |
 | 💾 **Installation**               | [unsloth/README.md](https://github.com/unslothai/unsloth/tree/main#installation-instructions)|
 | 🥇 **Benchmarking**                   | [Performance Tables](https://github.com/unslothai/unsloth/tree/main#-performance-benchmarking)
